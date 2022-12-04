@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.25)  4 DEC 2022 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.25)  4 DEC 2022 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -738,28 +738,28 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 (./researchDoc.aux)
 \openout1 = `researchDoc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Info: Redefining \th on input line 3.
-Package hyperref Info: Link coloring OFF on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Info: Redefining \th on input line 4.
+Package hyperref Info: Link coloring OFF on input line 4.
  (./researchDoc.out) (./researchDoc.out)
 \@outlinefile=\write3
 \openout3 = `researchDoc.out'.
@@ -841,46 +841,70 @@ Package: ragged2e 2022/11/13 v3.2 ragged2e Package
 [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<Luna_9_Space_Probe.jpg, id=58, 803.0pt x 1274.7625pt>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Luna_9_Space_Probe.jpg, id=66, 803.0pt x 1274.7625pt>
 File: Luna_9_Space_Probe.jpg Graphic file (type jpg)
 <use Luna_9_Space_Probe.jpg>
-Package pdftex.def Info: Luna_9_Space_Probe.jpg  used on input line 39.
+Package pdftex.def Info: Luna_9_Space_Probe.jpg  used on input line 56.
 (pdftex.def)             Requested size: 145.11053pt x 230.36156pt.
-<4164397702.jpg, id=59, 617.6676pt x 496.9767pt>
+<4164397702.jpg, id=67, 617.6676pt x 496.9767pt>
 File: 4164397702.jpg Graphic file (type jpg)
 <use 4164397702.jpg>
-Package pdftex.def Info: 4164397702.jpg  used on input line 53.
+Package pdftex.def Info: 4164397702.jpg  used on input line 70.
 (pdftex.def)             Requested size: 241.84843pt x 194.59361pt.
- [2 <./Luna_9_Space_Probe.jpg>] [3 <./4164397702.jpg>] [4] (./researchDoc.aux)
-
-Package rerunfilecheck Warning: File `researchDoc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `researchDoc.out':
-(rerunfilecheck)             Before: 33B333F22560E9B1AF30293F20E1D77B;1450
-(rerunfilecheck)             After:  CC9F5C6BCDCDBA640FAD471359801B9A;1651.
+ [2 <./Luna_9_Space_Probe.jpg>] [3 <./4164397702.jpg>] [4]
+<rocket_scheme.png, id=97, 131.5314pt x 230.7822pt>
+File: rocket_scheme.png Graphic file (type png)
+<use rocket_scheme.png>
+Package pdftex.def Info: rocket_scheme.png  used on input line 96.
+(pdftex.def)             Requested size: 145.11053pt x 254.63591pt.
+ [5 <./rocket_scheme.png>]
+<celestial-body.png, id=104, 261.97874pt x 226.8475pt>
+File: celestial-body.png Graphic file (type png)
+<use celestial-body.png>
+Package pdftex.def Info: celestial-body.png  used on input line 114.
+(pdftex.def)             Requested size: 145.11053pt x 125.65262pt.
+ [6 <./celestial-body.png>] [7] (./researchDoc.aux)
+Package rerunfilecheck Info: File `researchDoc.out' has not changed.
+(rerunfilecheck)             Checksum: 8A82BC785AACD7D7F534556FE86D6E85;1887.
  ) 
 Here is how much of TeX's memory you used:
- 13960 strings out of 474971
- 219036 string characters out of 5780120
- 582375 words of memory out of 5000000
- 35216 multiletter control sequences out of 15000+600000
- 475885 words of font info for 38 fonts, out of 8000000 for 9000
+ 14043 strings out of 474971
+ 220324 string characters out of 5780120
+ 583381 words of memory out of 5000000
+ 35269 multiletter control sequences out of 15000+600000
+ 481102 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,8n,80p,1264b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
-live/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2022
-/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/ty
-pe1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
-/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
-sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.p
-fb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on researchDoc.pdf (4 pages, 2406636 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
+live/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
+/cm-super/sfrm2488.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
+sfti1200.pfb>
+Output written on researchDoc.pdf (7 pages, 2598074 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
