@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.25)  4 DEC 2022 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.25)  4 DEC 2022 21:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -458,6 +458,19 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \WF@everypar=\toks19
 Package: wrapfig 2003/01/31  v 3.6
 )
+(c:/texlive/2022/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen150
+\SC@CAPWD=\dimen151
+\SC@tempdima=\dimen152
+\SC@tempdimb=\dimen153
+\c@SC@C=\count273
+\SC@BOX=\box52
+)
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip50
@@ -469,56 +482,56 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen150
+\ex@=\dimen154
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen151
+\pmbraise@=\dimen155
 )
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count273
+\inf@bad=\count274
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count274
-\leftroot@=\count275
+\uproot@=\count275
+\leftroot@=\count276
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count276
-\DOTSCASE@=\count277
+\classnum@=\count277
+\DOTSCASE@=\count278
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
+\Mathstrutbox@=\box53
+\strutbox@=\box54
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen152
+\big@size=\dimen156
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count278
+\macc@depth=\count279
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count279
+\c@MaxMatrixCols=\count280
 \dotsspace@=\muskip17
-\c@parentequation=\count280
-\dspbrk@lvl=\count281
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
 \tag@help=\toks21
-\row@=\count282
-\column@=\count283
-\maxfields@=\count284
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
 \andhelp@=\toks22
-\eqnshift@=\dimen153
-\alignsep@=\dimen154
-\tagshift@=\dimen155
-\tagwidth@=\dimen156
-\totwidth@=\dimen157
-\lineht@=\dimen158
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
 \@envbody=\toks23
 \multlinegap=\skip51
 \multlinetaggap=\skip52
@@ -554,31 +567,31 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 
 (c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count285
-\calc@Bcount=\count286
-\calc@Adimen=\dimen159
-\calc@Bdimen=\dimen160
+\calc@Acount=\count286
+\calc@Bcount=\count287
+\calc@Adimen=\dimen163
+\calc@Bdimen=\dimen164
 \calc@Askip=\skip56
 \calc@Bskip=\skip57
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count287
+\calc@Ccount=\count288
 \calc@Cskip=\skip58
 )
 (c:/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count288
-\l_MT_multwidth_dim=\dimen161
+\g_MT_multlinerow_int=\count289
+\l_MT_multwidth_dim=\dimen165
 \origjot=\skip59
-\l_MT_shortvdotswithinadjustabove_dim=\dimen162
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen163
-\l_MT_above_intertext_sep=\dimen164
-\l_MT_below_intertext_sep=\dimen165
-\l_MT_above_shortintertext_sep=\dimen166
-\l_MT_below_shortintertext_sep=\dimen167
-\xmathstrut@box=\box54
-\xmathstrut@dim=\dimen168
+\l_MT_shortvdotswithinadjustabove_dim=\dimen166
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen167
+\l_MT_above_intertext_sep=\dimen168
+\l_MT_below_intertext_sep=\dimen169
+\l_MT_above_shortintertext_sep=\dimen170
+\l_MT_below_shortintertext_sep=\dimen171
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen172
 )
 (c:/texlive/2022/texmf-dist/tex/latex/extsizes/extsizes.sty
 Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
@@ -605,17 +618,17 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count289
-\Gm@cntv=\count290
-\c@Gm@tempcnt=\count291
-\Gm@bindingoffset=\dimen169
-\Gm@wd@mp=\dimen170
-\Gm@odd@mp=\dimen171
-\Gm@even@mp=\dimen172
-\Gm@layoutwidth=\dimen173
-\Gm@layoutheight=\dimen174
-\Gm@layouthoffset=\dimen175
-\Gm@layoutvoffset=\dimen176
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen173
+\Gm@wd@mp=\dimen174
+\Gm@odd@mp=\dimen175
+\Gm@even@mp=\dimen176
+\Gm@layoutwidth=\dimen177
+\Gm@layoutheight=\dimen178
+\Gm@layouthoffset=\dimen179
+\Gm@layoutvoffset=\dimen180
 \Gm@dimlist=\toks31
 )
 (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
@@ -624,36 +637,35 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 (c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip60
-\enit@outerparindent=\dimen177
+\enit@outerparindent=\dimen181
 \enit@toks=\toks32
-\enit@inbox=\box55
-\enit@count@id=\count292
-\enitdp@description=\count293
+\enit@inbox=\box56
+\enit@count@id=\count293
+\enitdp@description=\count294
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count294
-\mult@box=\box56
-\multicol@leftmargin=\dimen178
-\c@unbalance=\count295
-\c@collectmore=\count296
-\doublecol@number=\count297
-\multicoltolerance=\count298
-\multicolpretolerance=\count299
-\full@width=\dimen179
-\page@free=\dimen180
-\premulticols=\dimen181
-\postmulticols=\dimen182
+\c@tracingmulticols=\count295
+\mult@box=\box57
+\multicol@leftmargin=\dimen182
+\c@unbalance=\count296
+\c@collectmore=\count297
+\doublecol@number=\count298
+\multicoltolerance=\count299
+\multicolpretolerance=\count300
+\full@width=\dimen183
+\page@free=\dimen184
+\premulticols=\dimen185
+\postmulticols=\dimen186
 \multicolsep=\skip61
 \multicolbaselineskip=\skip62
-\partial@page=\box57
-\last@line=\box58
-\maxbalancingoverflow=\dimen183
-\mult@rightbox=\box59
-\mult@grightbox=\box60
-\mult@firstbox=\box61
-\mult@gfirstbox=\box62
-\@tempa=\box63
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen187
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
 \@tempa=\box64
 \@tempa=\box65
 \@tempa=\box66
@@ -689,15 +701,16 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box96
 \@tempa=\box97
 \@tempa=\box98
-\c@minrows=\count300
-\c@columnbadness=\count301
-\c@finalcolumnbadness=\count302
-\last@try=\dimen184
-\multicolovershoot=\dimen185
-\multicolundershoot=\dimen186
-\mult@nat@firstbox=\box99
-\colbreak@box=\box100
-\mc@col@check@num=\count303
+\@tempa=\box99
+\c@minrows=\count301
+\c@columnbadness=\count302
+\c@finalcolumnbadness=\count303
+\last@try=\dimen188
+\multicolovershoot=\dimen189
+\multicolundershoot=\dimen190
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count304
 )
 (c:/texlive/2022/texmf-dist/tex/generic/soulutf8/soulutf8.sty
 Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
@@ -710,17 +723,17 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@buffer=\toks36
 \SOUL@token=\toks37
 \SOUL@spaceskip=\skip63
-\SOUL@ttwidth=\dimen187
-\SOUL@uldp=\dimen188
-\SOUL@ulht=\dimen189
+\SOUL@ttwidth=\dimen191
+\SOUL@uldp=\dimen192
+\SOUL@ulht=\dimen193
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titleps.sty
 Package: titleps 2021/07/05 v2.14 Page styles
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
-\l__pdf_internal_box=\box101
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box102
 )
 (./researchDoc.aux)
 \openout1 = `researchDoc.aux'.
@@ -754,16 +767,16 @@ Package hyperref Info: Link coloring OFF on input line 3.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen190
-\scratchbox=\box102
-\nofMPsegments=\count306
-\nofMParguments=\count307
+\scratchcounter=\count306
+\scratchdimen=\dimen194
+\scratchbox=\box103
+\nofMPsegments=\count307
+\nofMParguments=\count308
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen191
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen195
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
 \everyMPtoPDFconversion=\toks39
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -774,6 +787,23 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(c:/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -811,28 +841,34 @@ e
 [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<Luna_9_Space_Probe.jpg, id=63, 803.0pt x 1274.7625pt>
+<Luna_9_Space_Probe.jpg, id=58, 803.0pt x 1274.7625pt>
 File: Luna_9_Space_Probe.jpg Graphic file (type jpg)
 <use Luna_9_Space_Probe.jpg>
 Package pdftex.def Info: Luna_9_Space_Probe.jpg  used on input line 39.
 (pdftex.def)             Requested size: 145.11053pt x 230.36156pt.
-<4164397702.jpg, id=64, 617.6676pt x 496.9767pt>
+<4164397702.jpg, id=59, 617.6676pt x 496.9767pt>
 File: 4164397702.jpg Graphic file (type jpg)
 <use 4164397702.jpg>
-Package pdftex.def Info: 4164397702.jpg  used on input line 55.
-(pdftex.def)             Requested size: 193.47578pt x 155.66882pt.
- [2 <./Luna_9_Space_Probe.jpg> <./4164397702.jpg>] [3] (./researchDoc.aux)
-Package rerunfilecheck Info: File `researchDoc.out' has not changed.
-(rerunfilecheck)             Checksum: 33B333F22560E9B1AF30293F20E1D77B;1450.
+Package pdftex.def Info: 4164397702.jpg  used on input line 53.
+(pdftex.def)             Requested size: 241.84843pt x 194.59361pt.
+ [2 <./Luna_9_Space_Probe.jpg>] [3 <./4164397702.jpg>] [4] (./researchDoc.aux)
+
+Package rerunfilecheck Warning: File `researchDoc.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `researchDoc.out':
+(rerunfilecheck)             Before: 33B333F22560E9B1AF30293F20E1D77B;1450
+(rerunfilecheck)             After:  CC9F5C6BCDCDBA640FAD471359801B9A;1651.
  ) 
 Here is how much of TeX's memory you used:
- 13700 strings out of 474971
- 214471 string characters out of 5780120
- 580182 words of memory out of 5000000
- 34969 multiletter control sequences out of 15000+600000
+ 13960 strings out of 474971
+ 219036 string characters out of 5780120
+ 582375 words of memory out of 5000000
+ 35216 multiletter control sequences out of 15000+600000
  475885 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,7n,80p,918b,469s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,8n,80p,1264b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
 live/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2022
 /texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dis
@@ -841,10 +877,10 @@ pe1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
 /cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
 sfrm1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.p
 fb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on researchDoc.pdf (3 pages, 2403399 bytes).
+Output written on researchDoc.pdf (4 pages, 2406636 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
