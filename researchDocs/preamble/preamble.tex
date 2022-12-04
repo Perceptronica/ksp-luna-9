@@ -1,10 +1,13 @@
-\documentclass[a4paper, 12pt]{report}
+\documentclass[a4paper, 12pt]{article}
 
 % Поддержка русского языка
 \usepackage[english, russian]{babel}
 \usepackage[T2A]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{indentfirst}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{wrapfig}
 
 \usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
 
@@ -35,7 +38,7 @@
 \usepackage{titleps}
 \newpagestyle{main}{
 	\setheadrule{0.1pt}
-	\sethead{Проект по ВвАРКТ "\ProjectName"}{}{}
+	\sethead{Проект по ВвАРКТ <<\ProjectName>>}{}{}
 	\setfootrule{0.1pt}
 	\setfoot{ПМИ МАИ, 2022}{}{\thepage}
 }
